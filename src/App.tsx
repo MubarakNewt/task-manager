@@ -29,21 +29,21 @@ function App() {
         </div>
         <div className='body bg-[#F4F7FD]'>
           <div>
-            <span><img src="" alt="" /> TODO</span>
+            <span><img src="" alt="" /> TODO (4)</span>
             <div></div>
             <div></div>
             <div></div>
             <div></div>
           </div>
           <div>
-            <span><img src="" alt="" /> IN PROGRESS</span>
+            <span><img src="" alt="" /> DOING (6)</span>
             <div></div>
             <div></div>
             <div></div>
             <div></div>
           </div>
           <div>
-            <span><img src="" alt="" /> REVIEW</span>
+            <span><img src="" alt="" /> DONE (7)</span>
             <div></div>
             <div></div>
             <div></div>
@@ -52,6 +52,8 @@ function App() {
           <div></div>
         </div>
       </div>
+
+
     </div>
   );
 }
